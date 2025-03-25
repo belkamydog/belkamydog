@@ -84,29 +84,29 @@
 ### 🏆 My projects
 
 #### 🔗 [Task manager API](https://github.com/belkamydog/Task-Manager-Api)
-Java/Spring Task Management System with basic CRUD functionality 
-Spring Cloud, PostgreSQL, Spring Boot
+    - Java/Spring Task Management System with basic CRUD functionality 
+    - Spring Cloud, PostgreSQL, Spring Boot
 ---
 #### 🔗 [Calories tracker API](https://github.com/belkamydog/Calories-Tracker-API)  
-Microservice for calorie and nutrition accounting  
-Spring Boot, Redis, Kubernetes
+    - Microservice for calorie and nutrition accounting  
+    - Spring Boot, Redis, Kubernetes
 ---
 #### 🔗 [Multicalculator](https://github.com/belkamydog/MultiCalculator)  
-Engineer, Credit, Deposit, Chart calculator  
-Java 21, Spring Boot, JS, Thymleaf, Chart.js
+    - Engineer, Credit, Deposit, Chart calculator  
+    - Java 21, Spring Boot, JS, Thymleaf, Chart.js
 ---
 
 #### 🔗 [Fast Typing app](https://github.com/belkamydog/FastTypingApp)  
-App for train your typing skills  
-Java 21, Java swing
+    - App for train your typing skills  
+    - Java 21, Java swing
 ---
 #### 🔗 [Bmp Reader](https://github.com/belkamydog/bmpReader)  
-For open Bmp files and show it in console  
-C++
+    - For open Bmp files and show it in console  
+    - C++
 ---
-#### 🔗 [Bmp Reader](https://github.com/belkamydog/BrickGames)  
-BrickGames like Tetris and Snake
-C/C++ QT5
+#### 🔗 [Brick Games](https://github.com/belkamydog/BrickGames)  
+    - BrickGames like Tetris and Snake
+    - C/C++ QT5
 ---
 
 <div align="center">
