@@ -80,11 +80,12 @@
 </p>
 
 ---
-## 🏆 Мои проекты
 
-### 📌 Системы управления
+## 🏆 My Projects
+
+### 📌 Management Systems
 [![Task Manager API](https://img.shields.io/badge/Task_Manager-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/belkamydog/Task-Manager-Api)
-> **Java/Spring** система управления задачами с CRUD операциями и микросервисной архитектурой  
+> **Java/Spring** task management system with CRUD operations and microservice architecture  
 > 
 > ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=openjdk&logoColor=white)
 > ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot)
@@ -98,11 +99,11 @@
 > ![Microservices](https://img.shields.io/badge/-Microservices-009688?logo=microservices)
 ---
 
-### 🍏 Здоровье и фитнес
+### 🍏 Health & Fitness
 [![Calories Tracker API](https://img.shields.io/badge/Calorie_Tracker-ED8B00?style=for-the-badge&logo=fitbit&logoColor=white)](https://github.com/belkamydog/Calories-Tracker-API)
-> Микросервис для учёта калорий и питания с аналитикой и рекомендациями  
+> Microservice for calorie and nutrition tracking with analytics  
 
-**Технологический стек:**  
+**Tech Stack:**  
 > ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=openjdk&logoColor=white)
 > ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot)
 > ![Spring Data](https://img.shields.io/badge/-Spring_Data-6DB33F?logo=spring)
@@ -112,30 +113,30 @@
 
 ---
 
-### 🧮 Калькуляторы
+### 🧮 Calculators
 [![Multicalculator](https://img.shields.io/badge/Multicalculator-007396?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/belkamydog/MultiCalculator)
-> Инженерный, кредитный, депозитный калькулятор с графиками  
+> Engineering, credit, and deposit calculators with chart visualizations  
 > ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs)
 
 ---
 
-### ⌨️ Обучающие приложения
+### ⌨️ Educational Apps
 [![Fast Typing App](https://img.shields.io/badge/Fast_Typing-007396?style=for-the-badge&logo=keyboard&logoColor=white)](https://github.com/belkamydog/FastTypingApp)
-> Тренажёр слепой печити  
+> Touch typing trainer application  
 > ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=java) ![Swing](https://img.shields.io/badge/-Java_Swing-4EAA25?logo=swing)
 
 ---
 
-### 🖥️ Системные утилиты
+### 🖥️ System Utilities
 [![Bmp Reader](https://img.shields.io/badge/BMP_Reader-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/belkamydog/bmpReader)
-> Просмотр BMP изображений в консоли  
+> BMP image viewer for terminal  
 > ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
 
 ---
 
-### 🎮 Игры
+### 🎮 Games
 [![Brick Games](https://img.shields.io/badge/Brick_Games-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://github.com/belkamydog/BrickGames)
-> Классические игры (Тетрис, Змейка)  
+> Classic arcade games (Tetris, Snake)  
 > ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Qt5](https://img.shields.io/badge/-Qt5-41CD52?logo=qt)
 
 <div align="center">
