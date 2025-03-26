@@ -10,13 +10,13 @@
 - 💻 Java Backend developer
 - 👨‍🎓 School 21
 - 🌏 Russia Kzn
----
+
 ### 📌 Contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/belkamydog)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belkamydog22@gmail.com)
 
----
+
 
 ### Languages
 <p align="center">
@@ -29,7 +29,7 @@
     <img src="Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
----
+
 
 ### 🔧 Frameworks
 <p align="center">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
 </p>
 
----
+
 
 ### 🗄 Databases
 <p align="center">
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/H2_Database-0078D4?style=for-the-badge&logo=h2&logoColor=white">
 </p>
 
----
+
 
 ### ☁️ Cloud technologies
 <p align="center">
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
 
----
+
 
 ### ⚙️ Tools
 <p align="center">
@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Make-003366?style=for-the-badge&logo=cmake&logoColor=white">
 </p>
 
----
+
 
 ## 🏆 My Projects
 
@@ -97,7 +97,8 @@
 > ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger)
 > ![Lombok](https://img.shields.io/badge/-Lombok-003366?logo=lombok)
 > ![Microservices](https://img.shields.io/badge/-Microservices-009688?logo=microservices)
----
+
+
 
 ### 🍏 Health & Fitness
 [![Calories Tracker API](https://img.shields.io/badge/Calorie_Tracker-ED8B00?style=for-the-badge&logo=fitbit&logoColor=white)](https://github.com/belkamydog/Calories-Tracker-API)
@@ -111,28 +112,28 @@
 > ![Lombok](https://img.shields.io/badge/-Lombok-003366?logo=lombok)
 > ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 
----
+
 
 ### 🧮 Calculators
 [![Multicalculator](https://img.shields.io/badge/Multicalculator-007396?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/belkamydog/MultiCalculator)
 > Engineering, credit, and deposit calculators with chart visualizations  
 > ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs)
 
----
+
 
 ### ⌨️ Educational Apps
 [![Fast Typing App](https://img.shields.io/badge/Fast_Typing-007396?style=for-the-badge&logo=keyboard&logoColor=white)](https://github.com/belkamydog/FastTypingApp)
 > Touch typing trainer application  
 > ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=java) ![Swing](https://img.shields.io/badge/-Java_Swing-4EAA25?logo=swing)
 
----
+
 
 ### 🖥️ System Utilities
 [![Bmp Reader](https://img.shields.io/badge/BMP_Reader-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/belkamydog/bmpReader)
 > BMP image viewer for terminal  
 > ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
 
----
+
 
 ### 🎮 Games
 [![Brick Games](https://img.shields.io/badge/Brick_Games-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://github.com/belkamydog/BrickGames)
