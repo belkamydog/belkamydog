@@ -80,34 +80,63 @@
 </p>
 
 ---
+## 🏆 Мои проекты
 
-### 🏆 My projects
+### 📌 Системы управления
+[![Task Manager API](https://img.shields.io/badge/Task_Manager-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/belkamydog/Task-Manager-Api)
+> **Java/Spring** система управления задачами с CRUD операциями и микросервисной архитектурой  
+> 
+> ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=openjdk&logoColor=white)
+> ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot)
+> ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=springsecurity)
+> ![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?logo=spring)
+> ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens)
+> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+> ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger)
+> ![Lombok](https://img.shields.io/badge/-Lombok-003366?logo=lombok)
+> ![Microservices](https://img.shields.io/badge/-Microservices-009688?logo=microservices)
+---
 
-#### 🔗 [Task manager API](https://github.com/belkamydog/Task-Manager-Api)
-    - Java/Spring Task Management System with basic CRUD functionality 
-    - Spring Cloud, PostgreSQL, Spring Boot
----
-#### 🔗 [Calories tracker API](https://github.com/belkamydog/Calories-Tracker-API)  
-    - Microservice for calorie and nutrition accounting  
-    - Spring Boot, Redis, Kubernetes
----
-#### 🔗 [Multicalculator](https://github.com/belkamydog/MultiCalculator)  
-    - Engineer, Credit, Deposit, Chart calculator  
-    - Java 21, Spring Boot, JS, Thymleaf, Chart.js
+### 🍏 Здоровье и фитнес
+[![Calories Tracker API](https://img.shields.io/badge/Calorie_Tracker-ED8B00?style=for-the-badge&logo=fitbit&logoColor=white)](https://github.com/belkamydog/Calories-Tracker-API)
+> Микросервис для учёта калорий и питания с аналитикой и рекомендациями  
+
+**Технологический стек:**  
+> ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=openjdk&logoColor=white)
+> ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot)
+> ![Spring Data](https://img.shields.io/badge/-Spring_Data-6DB33F?logo=spring)
+> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+> ![Lombok](https://img.shields.io/badge/-Lombok-003366?logo=lombok)
+> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+
 ---
 
-#### 🔗 [Fast Typing app](https://github.com/belkamydog/FastTypingApp)  
-    - App for train your typing skills  
-    - Java 21, Java swing
+### 🧮 Калькуляторы
+[![Multicalculator](https://img.shields.io/badge/Multicalculator-007396?style=for-the-badge&logo=calculator&logoColor=white)](https://github.com/belkamydog/MultiCalculator)
+> Инженерный, кредитный, депозитный калькулятор с графиками  
+> ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs)
+
 ---
-#### 🔗 [Bmp Reader](https://github.com/belkamydog/bmpReader)  
-    - For open Bmp files and show it in console  
-    - C++
+
+### ⌨️ Обучающие приложения
+[![Fast Typing App](https://img.shields.io/badge/Fast_Typing-007396?style=for-the-badge&logo=keyboard&logoColor=white)](https://github.com/belkamydog/FastTypingApp)
+> Тренажёр слепой печити  
+> ![Java 21](https://img.shields.io/badge/-Java_21-007396?logo=java) ![Swing](https://img.shields.io/badge/-Java_Swing-4EAA25?logo=swing)
+
 ---
-#### 🔗 [Brick Games](https://github.com/belkamydog/BrickGames)  
-    - BrickGames like Tetris and Snake
-    - C/C++ QT5
+
+### 🖥️ Системные утилиты
+[![Bmp Reader](https://img.shields.io/badge/BMP_Reader-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/belkamydog/bmpReader)
+> Просмотр BMP изображений в консоли  
+> ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
+
 ---
+
+### 🎮 Игры
+[![Brick Games](https://img.shields.io/badge/Brick_Games-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://github.com/belkamydog/BrickGames)
+> Классические игры (Тетрис, Змейка)  
+> ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B) ![Qt5](https://img.shields.io/badge/-Qt5-41CD52?logo=qt)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=belkamydog&style=flat-square&color=blue" alt="Просмотры профиля"/>
